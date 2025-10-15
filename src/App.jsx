@@ -248,10 +248,11 @@ function App() {
           <div className="col-md-6 text-center ftco-animate">
             <p>
               <a
-                href="documents/JamelaFernandez_CV.pdf"
+                href="RESUME.pdf"
+                download="RESUME.pdf"
                 className="btn btn-primary py-3 px-4 small-btn"
               >
-                Download CV 
+                Download CV
               </a>
             </p>
           </div>
