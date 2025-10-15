@@ -539,7 +539,7 @@ function App() {
               </div>
               <h3 className="mb-4">LinkedIn</h3>
               <a
-                href="https://www.linkedin.com/in/veneese-julia-lazaraga-571bbb300/"
+                href="https://www.linkedin.com/in/jamela-fernandez-55b962300/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-decoration-none"
