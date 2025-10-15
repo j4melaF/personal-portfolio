@@ -68,7 +68,7 @@ If using GitHub Pages, follow the official guide for deployment.
 Live Demo
 You can access the live version of your portfolio once it's deployed:
 GitHub Pages URL:
-https://github.com/j4melaF/personal-portfolio.git
+https://github.com/j4melaF/personal-portfolio
 Demo Recording:
 Your demo link here
 Upload it to your Google Drive and verify that the file is set to be accessible to others.
