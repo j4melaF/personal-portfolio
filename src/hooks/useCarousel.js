@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 
 export const useCarousel = () => {
   useEffect(() => {
-    // Wait for jQuery and OwlCarousel to be loaded
+
     const initCarousel = () => {
       if (window.jQuery) {
         const $ = window.jQuery;
@@ -36,10 +36,9 @@ export const useCarousel = () => {
       }
     };
 
-    // Try to initialize immediately
     initCarousel();
 
-    // Also try again after a short delay to ensure all scripts are loaded
+   
     const timer = setTimeout(initCarousel, 1000);
 
     return () => clearTimeout(timer);
